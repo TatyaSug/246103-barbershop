@@ -2,6 +2,7 @@
 
 * Студент: [Tatyana Suglobova](https://up.htmlacademy.ru/htmlcss/15/user/246103).
 
+* Наставник: [Наталья Налимова] ( https://htmlacademy.ru/profile/tuetfe).
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
